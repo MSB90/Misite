@@ -1,0 +1,36 @@
+/**************** tag selector *******************/
+
+body {
+  background-color: #E4DCCF;
+}
+
+h1 {
+  color: #363333;
+  text-decoration-line:underline;
+  font-size: 60px;
+}
+h3 {
+  color: #363333;
+}
+
+hr {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 5px;
+ width: 2.5%;
+}
+
+img:hover {
+  width: 700px;
+}
+/************* class selector *********************/
+
+.heading {
+  color: black;
+}
+
+/************* ID selector *********************/
+#Heading {
+  font-style: italic;
+}
